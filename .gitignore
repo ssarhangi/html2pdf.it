@@ -1,6 +1,8 @@
 tmp/*.pdf
 lib/daemon/*.*
 node_modules
+lib/iisnode/*
+*.config
 npm-debug.log
 *.seed
 *.log
